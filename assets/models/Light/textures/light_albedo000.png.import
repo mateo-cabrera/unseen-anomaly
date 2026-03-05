@@ -1,34 +1,3 @@
-[remap]
-
-importer="texture"
-type="CompressedTexture2D"
-uid="uid://bcrqj05ffp6r1"
-path="res://.godot/imported/light_albedo000.png-b930d0c38f206d80bea4ef32377cd001.ctex"
-metadata={
-"vram_texture": false
-}
-
-[deps]
-
-source_file="res://assets/models/Light/textures/light_albedo000.png"
-dest_files=["res://.godot/imported/light_albedo000.png-b930d0c38f206d80bea4ef32377cd001.ctex"]
-
-[params]
-
-compress/mode=0
-compress/high_quality=false
-compress/lossy_quality=0.7
-compress/hdr_compression=1
-compress/normal_map=0
-compress/channel_pack=0
-mipmaps/generate=true
-mipmaps/limit=-1
-roughness/mode=0
-roughness/src_normal=""
-process/fix_alpha_border=true
-process/premult_alpha=false
-process/normal_map_invert_y=false
-process/hdr_as_srgb=false
-process/hdr_clamp_exposure=false
-process/size_limit=0
-detect_3d/compress_to=0
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b0da88ea554bc1b0e894acb1e657ce97b484a548975a6146da60824a17c7a9b
+size 807

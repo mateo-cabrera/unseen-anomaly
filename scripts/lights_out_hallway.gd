@@ -6,7 +6,7 @@ extends Node3D
 @onready var lights_out_trigger = $LightsOutTrigger
 
 func _ready():
-    # Connect the trigger's signal to our function to turn off the lights.
+	# Connect the trigger's signal to our function to turn off the lights.
     # We use .bind(true) to pass an argument and ensure the function is called only once,
     # by disabling the trigger after the first use.
     lights_out_trigger.body_entered.connect(_on_player_entered.bind(true))
